@@ -1,0 +1,4 @@
+customer_id,full_name,phone,email,national_id,credit_card,expire_mm_yy,address
+10001,"Somchai Demo","+66-81-000-0000","somchai.demo@example.com","1-2345-67890-12-3","4111111111111111","12/29","123 Fake St, Bangkok"
+10002,"Suda Example","+66-82-000-0000","suda.example@example.com","1-1111-11111-11-1","5555555555554444","10/28","456 Mock Rd, Chiang Mai"
+10003,"Arthit Test","+66-83-000-0000","arthit.test@example.com","9-9999-99999-99-9","4242424242424242","01/30","789 Sample Ave, Khon Kaen"

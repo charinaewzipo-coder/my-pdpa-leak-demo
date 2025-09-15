@@ -1,0 +1,10 @@
+# Prevent accidental uploads
+*.xlsx
+*.xls
+*.ods
+*.parquet
+*.sqlite
+*.bak
+secrets.*
+.env
+.env.*
